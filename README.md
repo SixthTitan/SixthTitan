@@ -1,8 +1,6 @@
 <h1 align="center">SixthTitan</h1>
 <h3 align="center">Computer Scientist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sixthtitan&label=Profile%20views&color=0e75b6&style=flat" alt="sixthtitan" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sixthtitan" alt="sixthtitan" /></a> </p>
 
 - 🔭 I’m currently working on [Building a React Driven Wordpress Website](https://www.destinyzero.com)
