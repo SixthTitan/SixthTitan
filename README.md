@@ -13,6 +13,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SixthTitan](https://github.com/SixthTitan)
 
+- 🔭 My Gist Collection: [https://gist.github.com/SixthTitan](https://gist.github.com/SixthTitan)
+
 - 📝 I regularly write articles on [https://www.destinyzero.com](https://www.destinyzero.com)
 
 - 💬 Ask me about **Amazon Web Services, The Weather Machine, Docker**
